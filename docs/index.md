@@ -10,13 +10,11 @@ now is the time
 
 ## Give Credit
     so much awesomeness here with MkDocs and github actions.
-<<<<<<< HEAD
     - yes there is
     - yes there is
 
 
-=======
+## Awesomeness Now
  - yes there is
  - yes there is
  - and even now
->>>>>>> dfa0760d1887fd441d0e0e2cd57a404ea53f899d
