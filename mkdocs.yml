@@ -10,3 +10,9 @@ extra:
       link: https://github.com/davecampbell
     - icon: fontawesome/solid/envelope
       link: mailto:daveccampbell@gmail.com
+
+nav:
+    - Home: index.md
+    - About: about.md
+    - Projects:
+        - 01: projects/project-01.md
