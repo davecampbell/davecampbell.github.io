@@ -1,20 +1,8 @@
-# Welcome to DaveCampbell-World
-created with MkDocs
+# Dave Campbell
+from Louisville, KY
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+## So What's This About?
+Personal website for Dave Campbell, from Louisville, KY.
 
-## What Gives?
-### And so much more
-now is the time
+Feel free to reach out.
 
-
-## Give Credit
-    so much awesomeness here with MkDocs and github actions.
-    - yes there is
-    - yes there is
-
-
-## Awesomeness Now
- - yes there is
- - yes there is
- - and even now
