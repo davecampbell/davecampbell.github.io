@@ -14,5 +14,6 @@ extra:
 nav:
     - Home: index.md
     - About: about.md
+    - Job: job.md
     - Projects:
         - 01: projects/project-01.md
