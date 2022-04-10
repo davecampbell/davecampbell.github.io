@@ -11,6 +11,7 @@
 ## [Likes](likes.md)
 - machine learning; all of it
 - commercial free media
+- python
 
 ## Projects (worth mentioning)
 - one
