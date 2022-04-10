@@ -1,8 +1,6 @@
 # About Dave Campbell
 
-## Personal
-- married, 4 children
-- lives in Louisville, KY
+## [Personal](/personal/personal.md)
 
 ## Professional
 - engineering background (EE)
