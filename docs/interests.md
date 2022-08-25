@@ -20,20 +20,17 @@ Yes, much of what I do for 'fun' is actually a tech project or activity in some 
 ####Activities:
 - regularly attend the [Kentucky Open Source](https://kyoss.dev/) Monthly Meetup
 - regularly attend the [DerbyPy](https://www.meetup.com/derbypy/) (Derby Pie, get it) monthly meetup (in covid-hiatus) 
-- religious listener to TalkPython and ThisWeekInMachineLearning podcasts
-    - https://talkpython.fm/
-    - https://twimlai.com/
-- 'mock interviewer' for MLH Production Engineering Fellowship - https://mlh.io/ 
+- religious listener to [TalkPython](https://talkpython.fm/) and [ThisWeekInMachineLearning](https://twimlai.com/) podcasts
+- 'mock interviewer' for [MLH](https://mlh.io/) 'Production Engineering' Fellowship Program
 
 ####Focused Online Activities:
-- DeepLearning specialization from Coursera/DeepLearning.ai (certificates)
-    - https://www.deeplearning.ai/courses/deep-learning-specialization/
-    - interesting project output: image of granddaughter 'convolved' with an image of sandstone (neural style transfer) - https://drive.google.com/file/d/1qrRlw4nbAFvM8NKK1aCcL-7TYclXZyQD/view
-- Fast.ai - Practical Deep Learning for Coders - https://www.fast.ai/
+- DeepLearning specialization from [Coursera/DeepLearning.ai](https://www.deeplearning.ai/courses/deep-learning-specialization/)
+    - certificates achieved 
+    - interesting project output: [image of granddaughter 'convolved' with an image of sandstone (neural style transfer)](https://drive.google.com/file/d/1qrRlw4nbAFvM8NKK1aCcL-7TYclXZyQD/view)
+- Fast.ai - [Practical Deep Learning for Coders](https://www.fast.ai/)
     - spawned multi-year study group until recently
     - several kaggle competitions with this group
-- Study Group around 'Deep Learning using Graphs' course at Stanford
-    - https://web.stanford.edu/class/cs224w/
+- Study Group around ['Deep Learning using Graphs' course at Stanford](https://web.stanford.edu/class/cs224w/)
 
 ####Home Projects:
 - [OpenMediaVault](https://www.openmediavault.org/)-based NAS + NextCloud / LetsEncrypt for external access
@@ -57,6 +54,6 @@ Yes, much of what I do for 'fun' is actually a tech project or activity in some 
 - whacked on AWS Deepracer for a time as part of an activity with our [local hackerspace](https://lvl1.org)
 - mess with domains (about 30) and hosting for various ideas
     - blog aggregation is fun ([louisvilleblogs](https://louisvilleblogs.com), [foodwatcher](https://foodwatcher.com), [bourbonsphere](https://bourbonsphere.com))
-- personal website using MkDocs, github.io, and github actions - https://daveccampbell.com/
+- personal website using MkDocs, github.io, and github actions - [https://daveccampbell.com/](https://daveccampbell.com/)
 
 
