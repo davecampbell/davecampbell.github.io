@@ -46,14 +46,14 @@ Yes, much of what I do for 'fun' is actually a tech project or activity in some 
     - in the middle of a project using audio detection to switch TV to another channel when a commercial comes on (I hate commercials)
         - uses IR output to a chained CircuitPythonExpress board to change channels 
     - various attempts at mole motion detection to alert for mole activity
-    - image capture from android webcam software on burner phone pipelined to successive image analysis function
+        - image capture from android webcam software on burner phone pipelined to successive image analysis function
 - built a fixture to hold 3D objects for [photogrammetry](https://www.youtube.com/watch?v=TiSGfKm5cFQ) photo sessions
     - goal is to analyze stone artifacts to assess human use modalities
-- Blender3D - develop microbiological animations for drug development corporate websites
+- [Blender](https://www.blender.org/) - develop microbiological animations for drug development corporate websites
 - setup 2 different computers with [Makecode](https://arcade.makecode.com/) for my grandkids
-- whacked on AWS Deepracer for a time as part of an activity with our [local hackerspace](https://lvl1.org)
+- whacked on [AWS Deepracer](https://aws.amazon.com/deepracer/) for a time as part of an activity with our [local hackerspace](https://lvl1.org)
 - mess with domains (about 30) and hosting for various ideas
-    - blog aggregation is fun ([louisvilleblogs](https://louisvilleblogs.com), [foodwatcher](https://foodwatcher.com), [bourbonsphere](https://bourbonsphere.com))
+    - automatic content aggregation is fun ([louisvilleblogs](https://louisvilleblogs.com), [foodwatcher](https://foodwatcher.com), [bourbonsphere](https://bourbonsphere.com))
 - personal website using MkDocs, github.io, and github actions - [https://daveccampbell.com/](https://daveccampbell.com/)
 
 
