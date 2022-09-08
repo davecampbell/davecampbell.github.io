@@ -8,6 +8,8 @@ somewhat difficult to organize this stuff, but here goes.
 (i know, James Webb changes everything, but trying to at least get this far)
 - [Jeff Tweedy - How To Write One Song](https://www.amazon.com/How-Write-One-Song-Loving/dp/B08DL33RQ1)
 
+## [Machine Learning Stuff](ml.md)
+
 
 ## Tech Stuff I Do At Home Not Related To Job
 
