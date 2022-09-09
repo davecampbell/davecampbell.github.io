@@ -17,5 +17,5 @@ nav:
     - Personal: personal/personal.md
     - Job: job.md
     - Interests:
-        - Overall: interests.md
-        - ML: ml.md
+      - Overall: interests.md
+      - ML: ml.md
