@@ -17,6 +17,6 @@ nav:
     - Personal: personal/personal.md
     - Job: job.md
     - Interests: interests.md
-       - Reading: interests/#been-reading
+       - Reading: /interests#been-reading
        - ML: ml.md
-       - Tech Stuff: interests/#tech-stuff-i-do-at-home-not-related-to-job
+       - Tech Stuff: /interests#tech-stuff-i-do-at-home-not-related-to-job
