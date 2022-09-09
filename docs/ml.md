@@ -45,4 +45,4 @@ A mostly chronologicial listing of my ML exposure
  - participated with study group participants for their advanced submissions
 
 ## Religiously Listened to ML Podcasts
- - https://twimlai.com/shows/
+ - [Twiml - This Week In Machine Learning](https://twimlai.com/shows/)
