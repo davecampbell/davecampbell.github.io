@@ -26,7 +26,7 @@ A mostly chronologicial listing of my ML exposure
     - [Convolutional Neural Networks](https://www.coursera.org/account/accomplishments/verify/CFTHB9NGK3SL)
 
 ## 2020
-- worked through '[Practical Deep Learning for Coders](https://course.fast.ai/)', Jeremy Howard's PyTorch-based course and library
+- worked through '[Practical Deep Learning for Coders](https://course.fast.ai/)', [Jeremy Howard](https://en.wikipedia.org/wiki/Jeremy_Howard_(entrepreneur))'s PyTorch-based course and library
 
 ## 2021
 - [Deep Learning With Graphs](https://twimlai.com/community/program/cs224w-machine-learning-with-graphs-2021-study-group/)
@@ -34,7 +34,14 @@ A mostly chronologicial listing of my ML exposure
 
 ## 2022
 - revisiting the 2022 updates to '[Practical Deep Learning for Coders](https://course.fast.ai/)'
-- ran through all of Jeremy Howard's Live Coding sessions
+- ran through all of [Jeremy Howard](https://en.wikipedia.org/wiki/Jeremy_Howard_(entrepreneur))'s [Live Coding sessions](https://forums.fast.ai/t/live-coding-1/96649)
+
+## 2023
+- weekly remote meetup of [TWIML Generative AI Study Group](https://twimlai.com/community/)
+- all the [DeepLearning.ai short courses](https://www.deeplearning.ai/short-courses/) on LLMs  
+-- made repos of some of them in order to run independent of the course kernel ([LangChain for LLMs](https://github.com/davecampbell/langchain-jupyter-01), [Agents](https://github.com/davecampbell/langchain-sc07-agents))
+
+
 
 ## Kaggle competitions
  - [Cassava leaf disease detection](https://www.kaggle.com/c/cassava-leaf-disease-classification)

@@ -1,31 +1,36 @@
 # My Interests and Activities
 
-somewhat difficult to organize this stuff, but here goes.
 
-## Been Reading
-- [Cosmology: Everything you need to know...](https://www.amazon.com/Degree-Book-Cosmology-Everything-Subject/dp/1788887557)
-- [Until The End Of Time](https://www.amazon.com/Until-End-Time-Evolving-Universe)
-(i know, James Webb changes everything, but trying to at least get this far)
-- [Jeff Tweedy - How To Write One Song](https://www.amazon.com/How-Write-One-Song-Loving/dp/B08DL33RQ1)
+## Reading
+- [Outlive: The Science & Art of Longevity](https://peterattiamd.com/outlive/)
+- [All The Pretty Horses](https://en.wikipedia.org/wiki/All_the_Pretty_Horses_(novel))
 
-## [Machine Learning Stuff](ml.md)
+## Listening
+- [TalkPython](https://talkpython.fm/)  
+- [ThisWeekInMachineLearning](https://twimlai.com/) 
 
+## Doing
+- always trying to play the guitar
+- rehabbing a total knee replacement (basketball, biking, pickleball)
+
+
+## [Specific Machine Learning Activities](ml.md)
 
 ## Tech Stuff I Do At Home Not Related To Job
 
-i had a potential employer ask me this question.  really good question to ask someone.
+I had an interviewer ask me this question once - seems like a good way to learn about someone's *interests*:
 
-###Do you work on personal technical projects outside of work? If so, what do you enjoy working on in your spare time?
+> Do you work on personal technical projects outside of work? If so, what do you enjoy working on in your spare time?
 
-Yes, much of what I do for 'fun' is actually a tech project or activity in some form or another. 
+And yes, much of what I do for 'fun' is actually a tech project or activity in some form or another. 
 
-####Activities:
+#### Activities:
 - regularly attend the [Kentucky Open Source](https://kyoss.dev/) Monthly Meetup
 - regularly attend the [DerbyPy](https://www.meetup.com/derbypy/) (Derby Pie, get it) monthly meetup (in covid-hiatus) 
 - religious listener to [TalkPython](https://talkpython.fm/) and [ThisWeekInMachineLearning](https://twimlai.com/) podcasts
 - 'mock interviewer' for [MLH](https://mlh.io/) 'Production Engineering' Fellowship Program
 
-####Focused Online Activities:
+#### Focused Online Activities:
 - DeepLearning specialization from [Coursera/DeepLearning.ai](https://www.deeplearning.ai/courses/deep-learning-specialization/)
     - certificates achieved 
     - interesting project output: [image of granddaughter 'convolved' with an image of sandstone (neural style transfer)](https://drive.google.com/file/d/1qrRlw4nbAFvM8NKK1aCcL-7TYclXZyQD/view)
@@ -34,7 +39,7 @@ Yes, much of what I do for 'fun' is actually a tech project or activity in some 
     - several kaggle competitions with this group
 - Study Group around ['Deep Learning using Graphs' course at Stanford](https://web.stanford.edu/class/cs224w/)
 
-####Home Projects:
+#### Home Projects:
 - [OpenMediaVault](https://www.openmediavault.org/)-based NAS + NextCloud / LetsEncrypt for external access
     - uses [portainer.io](https://www.portainer.io/) for container orchestration
     - contains 3 decades of media and personal files accessible by all major file access protocols
