@@ -15,7 +15,7 @@ nav:
     - Home: index.md
     - About: about.md
     - Personal: personal/personal.md
-    - Job: job.md
+    - Career: career.md
     - Interests:
       - Overall: interests.md
       - ML: ml.md
