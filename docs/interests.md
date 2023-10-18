@@ -4,6 +4,8 @@
 ## Reading
 - [Outlive: The Science & Art of Longevity](https://peterattiamd.com/outlive/)
 - [All The Pretty Horses](https://en.wikipedia.org/wiki/All_the_Pretty_Horses_(novel))
+- [Imperfection: A Natural History](https://mitpress.mit.edu/9780262548359/imperfection/)
+- [The Age of Scientific Wellness](https://www.hup.harvard.edu/catalog.php?isbn=9780674245945)
 
 ## Listening
 - [TalkPython](https://talkpython.fm/)  

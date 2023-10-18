@@ -4,13 +4,12 @@
 
 ## Professional
 - engineering background (EE)
-- [my job](/job)
+- [career](career.md)
 
 ## [Likes](likes.md)
 - machine learning; all of it
 - commercial free media
 - python
 
-## Projects (worth mentioning)
-- one
-- two
+## Projects
+- [look here](interests.md)
