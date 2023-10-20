@@ -3,13 +3,15 @@
 A rundown of all the places I've lived, in chronological order.
 
 Shrewsbury, MA
-* Shepherd Lane :baby_symbol:
+
+- Shepherd Lane :baby_symbol:
 
 Louisville, KY
-* Rudy Ln.
-* Evergreen Rd.
-* Ash Ave.
-* Briarwood Rd.
+
+- Rudy Ln.
+- Evergreen Rd.
+- Ash Ave.
+- Briarwood Rd.
 * Nanz Ave.
 * Mallgate Apts.
 * Norbourne Blvd.
@@ -22,7 +24,8 @@ Louisville, KY
 * Morton Ave.
 
 Dahlgren, VA
-* Bachelor Civilian Quarters
+
+- Bachelor Civilian Quarters
 
 Louisville, KY
 - Speed Ave.
