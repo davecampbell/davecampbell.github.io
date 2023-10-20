@@ -2,11 +2,11 @@
 
 A rundown of all the places I've lived, in chronological order.
 
-Shrewsbury, MA  
+Shrewsbury, MA
 * Shepherd Lane :baby_symbol:
 
-Louisville, KY  
-* Rudy Ln.  
+Louisville, KY
+* Rudy Ln.
 * Evergreen Rd.
 * Ash Ave.
 * Briarwood Rd.
@@ -25,8 +25,8 @@ Dahlgren, VA
 * Bachelor Civilian Quarters
 
 Louisville, KY
-* Speed Ave.
-* Oriole Dr.
+- Speed Ave.
+- Oriole Dr.
 * Wetterau Ave.
 * Elmwood Ave.
 
