@@ -7,7 +7,7 @@
 
  For more detail than most people might be interested in, feel free to visit [my LinkedIn profile](https://www.linkedin.com/in/daveccampbell/).
 
-Or just keep reading.  Here's a chronological list of all jobs I've had along the way.
+Or just keep reading.  Here's a chronological list of the jobs I've had along the way.
 
 <ins>Louisville, KY</ins>  
 1974: *Rent-A-Teen*, St. Matthews YMCA  
