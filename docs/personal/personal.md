@@ -1,3 +1,7 @@
+---
+icon: material/human-scooter
+---
+
 # Personal Things
 
 ## Where I Live

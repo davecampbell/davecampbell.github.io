@@ -1,3 +1,7 @@
+---
+icon: material/state-machine
+---
+
 # My ML Journey
 
 A mostly chronologicial listing of my ML exposure

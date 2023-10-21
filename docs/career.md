@@ -1,3 +1,7 @@
+---
+icon: material/rocket-launch-outline
+---
+
 # Career
 
 > Lately it occurs to me  
