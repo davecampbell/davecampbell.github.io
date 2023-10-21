@@ -1,6 +1,7 @@
 site_name: Dave Campbell
 theme:
   name: material
+  favicon: images/favicon.png
 
 extra:
   social:
