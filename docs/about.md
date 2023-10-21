@@ -1,3 +1,7 @@
+---
+icon: material/information-variant
+---
+
 # About Dave Campbell
 
 ## [Personal](/personal/personal.md)
