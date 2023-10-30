@@ -16,9 +16,14 @@ extra:
     - icon: fontawesome/solid/envelope
       link: mailto:daveccampbell@gmail.com
 
-  custom:
-    analytics:
-      provider: bugpilot
+
+  analytics:
+    provider: google
+    property: G-QKFJ1SLQB9
+
+#  custom:
+#    analytics:
+#      provider: bugpilot
 
 nav:
     - Home: index.md
