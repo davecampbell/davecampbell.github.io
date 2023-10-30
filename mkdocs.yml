@@ -3,7 +3,7 @@ theme:
   name: material
   favicon: images/favicon2.ico
   logo: images/logo.png
-  custom_dir: my_theme_customizations/
+#  custom_dir: my_theme_customizations/
   extra_javascript:
     - https://script.bugpilot.io/3c7a8980-9739-42ed-bf3a-1f8f19cbdfcf/adopto.js
 
