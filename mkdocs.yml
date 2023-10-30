@@ -1,7 +1,7 @@
 site_name: Dave Campbell
 theme:
   name: material
-  favicon: images/faviconh.ico
+  favicon: images/favicon.ico
   logo: images/logo.png
   custom_dir: my_theme_customizations/
 
