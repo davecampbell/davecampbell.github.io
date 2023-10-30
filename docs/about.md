@@ -4,7 +4,7 @@ icon: material/information-variant
 
 # About Dave Campbell
 
-## [Personal](/personal/personal.md)
+## [Personal](personal/personal.md)
 
 ## Professional
 - engineering background (EE)
