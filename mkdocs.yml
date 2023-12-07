@@ -31,10 +31,17 @@ nav:
       - Overall: interests.md
       - ML: ml.md
     - TIL: til/index.md
+      - knife sharpening: til/whetstone.md
 
 markdown_extensions:
   - attr_list
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
-      
+
+plugins:
+  - blog:
+      blog_dir: til
+      post_date_format: short
+      post_url_date_format: yyyy/MM
+      post_url_format: "{categories}/{slug}"

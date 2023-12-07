@@ -1,6 +1,11 @@
 ---
 title: Sharpening A Knife With A Whetstone
+date: 2023-12-06
 icon: material/knife
+categories:
+  - Home
+links:
+  - My homemade fixture: https://photos.app.goo.gl/73Uw9MJZkC2SVTK68
 ---
 
 # Sharpening A Knife With A Whetstone
