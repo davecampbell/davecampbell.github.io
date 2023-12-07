@@ -31,6 +31,7 @@ nav:
       - Overall: interests.md
       - ML: ml.md
     - TIL: til/index.md
+      - Knives: til/posts/whetstone.md
 
 
 markdown_extensions:
