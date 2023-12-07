@@ -18,5 +18,5 @@ So I ran across a virgin whetstone on a basement shelf that I bought on amazon a
 
 I did some youtube-review on knife sharpening with a whetstone, and it was clear I would need a fixture to hold the whetstone while sharpening, so I made one from spare lumber.
 
-!(https://photos.app.goo.gl/73Uw9MJZkC2SVTK68)
+![My Whetstone Fixture](https://photos.app.goo.gl/73Uw9MJZkC2SVTK68)
 
