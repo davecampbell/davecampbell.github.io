@@ -18,7 +18,7 @@ So I ran across a virgin whetstone on a basement shelf that I [bought on amazon]
 
 I did some youtube-review on knife sharpening with a whetstone, and it was clear I would need a fixture to hold the whetstone while sharpening, so I made one from spare lumber.
 
-![My Whetstone Fixture](https://photos.app.goo.gl/73Uw9MJZkC2SVTK68)
+![My Whetstone Fixture](https://lh3.googleusercontent.com/pw/ADCreHc7y0zEZI07skfGyUcXyM-t9aqT5rnwk1dZDvGXJautw0X1fOWX3Oy5kGg8q5lsUUjPOKW3vKLJfcfO4rY0ZJ6m21KAph_nUe4OPt2P52sA_vw0MdaCEdjO2pMLv-f6dXh_0peue_8IBQ2RgvMdduHeSg=w2072-h1554-s-no-gm)
 
 I can clamp the whole fixture to a countertop and get to honing.  
 
