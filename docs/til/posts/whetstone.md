@@ -14,9 +14,15 @@ We have a nice set of knives given to us as a Christmas present some years ago, 
 
 I have a metal rod-thing that I would use occasionally, but I don't think that was cutting it.  bada-bing.
 
-So I ran across a virgin whetstone on a basement shelf that I bought on amazon a long time ago maybe thinking then I would learn how to use it, but never did.  Well that day came.
+So I ran across a virgin whetstone on a basement shelf that I [bought on amazon](https://www.amazon.com/gp/product/B0055B2RGO/) a few years ago maybe thinking then I would learn how to use it, but never did.  Well that day has come.
 
 I did some youtube-review on knife sharpening with a whetstone, and it was clear I would need a fixture to hold the whetstone while sharpening, so I made one from spare lumber.
 
 ![My Whetstone Fixture](https://photos.app.goo.gl/73Uw9MJZkC2SVTK68)
+
+I can clamp the whole fixture to a countertop and get to honing.  
+
+I pretty much just freestyled it using [this youtube video](https://www.youtube.com/watch?v=xGy4hWO_rTw).
+
+I have sharper knives now.
 
