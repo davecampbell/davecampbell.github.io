@@ -30,6 +30,7 @@ nav:
     - Interests:
       - Overall: interests.md
       - ML: ml.md
+    - TIL: til/index.md
 
 markdown_extensions:
   - attr_list

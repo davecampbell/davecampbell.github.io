@@ -1,4 +1,4 @@
-### README for davecampbell.github.io
+# README for davecampbell.github.io
 
 This is the static website generator to create a website for daveccampbell.com.  
 
