@@ -5,7 +5,10 @@ icon: material/knife
 categories:
   - Home
 links:
-  - My homemade fixture: https://photos.app.goo.gl/73Uw9MJZkC2SVTK68
+  - https://lh3.googleusercontent.com/pw/ADCreHc7y0zEZI07skfGyUcXyM-t9aqT5rnwk1dZDvGXJautw0X1fOWX3Oy5kGg8q5lsUUjPOKW3vKLJfcfO4rY0ZJ6m21KAph_nUe4OPt2P52sA_vw0MdaCEdjO2pMLv-f6dXh_0peue_8IBQ2RgvMdduHeSg=w2072-h1554-s-no-gm
+  - https://www.youtube.com/watch?v=xGy4hWO_rTw
+  - https://www.amazon.com/gp/product/B0055B2RGO/
+
 ---
 
 # Sharpening A Knife With A Whetstone
