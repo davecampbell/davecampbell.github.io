@@ -30,9 +30,7 @@ nav:
     - Interests:
       - Overall: interests.md
       - ML: ml.md
-    - TIL: til/index.md
-      - knife sharpening: til/whetstone.md
-
+    
 markdown_extensions:
   - attr_list
   - pymdownx.emoji:
