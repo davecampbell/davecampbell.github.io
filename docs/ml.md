@@ -45,7 +45,10 @@ A mostly chronologicial listing of my ML exposure
 - all the [DeepLearning.ai short courses](https://www.deeplearning.ai/short-courses/) on LLMs  
 -- made repos of some of them in order to run independent of the course kernel ([LangChain for LLMs](https://github.com/davecampbell/langchain-jupyter-01), [Agents](https://github.com/davecampbell/langchain-sc07-agents))
 
-
+## 2024
+- continue weekly [GenAI Study Group](https://twimlai.com/community/)
+- contributed to a Google Hackathon project - [LLM-based evaluator for RAG](https://devpost.com/software/llm-rag-eval)
+- founded a GenAI consultancy / agency [NewThink.ai](https://newthink.ai)
 
 ## Kaggle competitions
  - [Cassava leaf disease detection](https://www.kaggle.com/c/cassava-leaf-disease-classification)
