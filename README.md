@@ -4,7 +4,7 @@ This is the static website generator to create a website for daveccampbell.com.
 
 Made from [mkdocs](https://www.mkdocs.org/).
 
-## A test thing
+## A Test Diagram using Mermaid
 
 ```mermaid
 graph TD;
