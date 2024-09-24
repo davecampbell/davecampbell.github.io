@@ -19,3 +19,6 @@ Slowly retiring from professional full-time 'engagements' (jobs), but somewhat a
   * fractional solutions engineering: [FractionalSE.com](https://fractionalse.com){:target="_blank" rel="noopener"}
   * and a Gen-AI operation called [NewThink.ai](https://newthink.ai){:target="_blank" rel="noopener"}.
 
+Recently enjoying being President of the [Waggener High School Alumni Association](https://waggeneralumni.org){:target="_blank" rel="noopener"}
+
+And starting in Spring 2025 as a Ph.D. student at UofL Speed School, [Robotics & AI Lab](https://engineering.louisville.edu/research/centersinstitutes/larri/){:target="_blank" rel="noopener"}
