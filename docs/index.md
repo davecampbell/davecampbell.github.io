@@ -14,6 +14,7 @@ Feel free to reach out.
 ---
 
 Slowly retiring from professional full-time 'engagements' (jobs), but somewhat active with...  
+
   * technical consulting company I founded: [Best Technical](https://www.besttechnical.com){:target="_blank" rel="noopener"}
   * fractional solutions engineering: [FractionalSE.com](https://fractionalse.com){:target="_blank" rel="noopener"}
   * and a Gen-AI operation called [NewThink.ai](https://newthink.ai){:target="_blank" rel="noopener"}.
