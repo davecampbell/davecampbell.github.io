@@ -13,6 +13,8 @@ Feel free to reach out.
 
 ---
 
-I am the founder of a technical consulting company, [Best Technical](https://www.besttechnical.com){:target="_blank" rel="noopener"} as well as [FractionalSE.com](https://fractionalse.com){:target="_blank" rel="noopener"}.  
+Slowly retiring from professional full-time 'engagements' (jobs), but somewhat active with...
+- technical consulting company I founded: [Best Technical](https://www.besttechnical.com){:target="_blank" rel="noopener"}
+- fractional solutions engineering: [FractionalSE.com](https://fractionalse.com){:target="_blank" rel="noopener"}
+- and a Gen-AI operation called [NewThink.ai](https://newthink.ai){:target="_blank" rel="noopener"}.
 
-I also operate a Gen-AI operation called [NewThink.ai](https://newthink.ai){:target="_blank" rel="noopener"}.
