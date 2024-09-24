@@ -44,7 +44,9 @@ Or just keep reading.  Here's a chronological list of the jobs I've had along th
 2010: *Cafepress*, operations support / monitoring engineer / SRE  
 2017: *Appriss (Equifax)*, automations / monitoring engineer / SRE  
 2022: *Circonus*, Solutions Engineer  
-2023: *Skylimit Resources (dba Best Technical)*, technical consulting  
+2023: *Skylimit Resources (dba Best Technical)*, technical consulting
+2024: *FractionalSE.com*, 'fractional' solutions engineering services
+2024: *NewThink.ai*, GenAI / ML consulting
 
 
 
