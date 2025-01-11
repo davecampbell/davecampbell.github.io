@@ -16,3 +16,11 @@ Retired professional technologist staying active via...
 * President of the [Waggener High School Alumni Association](https://waggeneralumni.org){:target="_blank" rel="noopener"}
 * selected technical consulting activities through [Best Technical](https://www.besttechnical.com){:target="_blank" rel="noopener"}
 
+I like messing with Wordpress and do some websites with it.  
+Blog Aggregators:  
+- [LouisvilleBlogs](https://louisvilleblogs.com){:target="_blank" rel="noopener"}
+- [FoodWatcher](https://foodwatcher.com){:target="_blank" rel="noopener"}
+- [Bourbonsphere](https://bourbonsphere.com){:target="_blank" rel="noopener"}
+
+Others:
+- [WaggenerAlumni.org](https://waggeneralumni.org){:target="_blank" rel="noopener"}
