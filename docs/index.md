@@ -18,9 +18,9 @@ Retired professional technologist staying active via...
 
 I like messing with Wordpress and do some websites with it.  
 Blog Aggregators:  
-- [LouisvilleBlogs](https://louisvilleblogs.com){:target="_blank" rel="noopener"}
-- [FoodWatcher](https://foodwatcher.com){:target="_blank" rel="noopener"}
-- [Bourbonsphere](https://bourbonsphere.com){:target="_blank" rel="noopener"}
+- [LouisvilleBlogs](https://louisvilleblogs.com){:target="_blank" rel="noopener"}  
+- [FoodWatcher](https://foodwatcher.com){:target="_blank" rel="noopener"}  
+- [Bourbonsphere](https://bourbonsphere.com){:target="_blank" rel="noopener"}  
 
-Others:
+Others:  
 - [WaggenerAlumni.org](https://waggeneralumni.org){:target="_blank" rel="noopener"}
