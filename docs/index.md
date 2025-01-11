@@ -17,6 +17,7 @@ Retired professional technologist staying active via...
 * selected technical consulting activities through [Best Technical](https://www.besttechnical.com){:target="_blank" rel="noopener"}
 
 I like messing with Wordpress and do some websites with it.  
+
 Blog Aggregators:  
 - [LouisvilleBlogs](https://louisvilleblogs.com){:target="_blank" rel="noopener"}  
 - [FoodWatcher](https://foodwatcher.com){:target="_blank" rel="noopener"}  
