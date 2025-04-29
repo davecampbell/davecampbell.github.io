@@ -24,5 +24,5 @@ Blog Aggregators:
 - [Bourbonsphere](https://bourbonsphere.com){:target="_blank" rel="noopener"}  
 
 Others:  
-- [WaggenerAlumni.org](https://waggeneralumni.org){:target="_blank" rel="noopener"}
+- [WaggenerAlumni.org](https://waggeneralumni.org){:target="_blank" rel="noopener"}  
 - [SusanLeeCampbell.org](https://susanleecampbell.org){:target="_blank" rel="noopener"}
