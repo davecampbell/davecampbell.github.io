@@ -46,7 +46,7 @@ Or just keep reading.  Here's a chronological list of the jobs I've had along th
 2022: *Circonus*, Solutions Engineer  
 2023: *Skylimit Resources (dba [Best Technical](https://besttechnical.com){:target="_blank" rel="noopener"})*, technical consulting  
 2024: *[FractionalSE.com](https://fractionalse.com){:target="_blank" rel="noopener"}*, 'fractional' solutions engineering services  
-2024: *[NewThink.ai](https://newthink.ai){:target="_blank" rel="noopener"}*, GenAI / ML consulting
+2024: *[NewThink.ai](https://newthink.ai){:target="_blank" rel="noopener"}*, GenAI / ML consulting  
 2025: *[University of Louisville, Speed Scientific School, LARRI Lab](https://engineering.louisville.edu/research/centersinstitutes/larri/){:target="_blank" rel="noopener"}*, Graduate Student, Robotics and AI
 
 
