@@ -1,8 +1,8 @@
 # README for davecampbell.github.io
 
-This is the static website generator to create a website for daveccampbell.com.  
+Files to create the website: daveccampbell.com.  
 
-Made from [mkdocs](https://www.mkdocs.org/).
+Made using [Zensical](https://zensical.org).
 
 ## A Test Diagram using Mermaid
 
