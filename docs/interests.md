@@ -17,7 +17,9 @@ icon: material/head-snowflake-outline
 
 ## Doing
 - always trying to play the guitar
-- rehabbing a total knee replacement (basketball, biking, pickleball)
+
+## Classes
+- [SolveIt](https://solve.it.com/course_info) - Jeremy Howard's latest adventure
 
 
 ## [Specific Machine Learning Activities](ml.md)
