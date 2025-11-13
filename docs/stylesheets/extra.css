@@ -1,0 +1,77 @@
+/* Gruvbox-inspired color scheme */
+:root {
+  /* Primary colors */
+  --md-primary-fg-color: #98971a;        /* yellow-green for header */
+  --md-primary-fg-color--light: #b8bb26; /* lighter variant */
+  --md-primary-fg-color--dark: #79740e;  /* darker variant */
+  --md-primary-bg-color: #1d2021;        /* dark background */
+
+  /* Accent colors */
+  --md-accent-fg-color: #d79921;         /* mustard/orange for links */
+  --md-accent-fg-color--transparent: #d7992110;
+
+  /* Default colors */
+  --md-default-bg-color: #1d2021;        /* main background */
+  --md-default-fg-color: #ebdbb2;        /* main text color */
+  --md-default-fg-color--light: #d5c4a1; /* lighter text */
+  --md-default-fg-color--lighter: #bdae93; /* even lighter */
+  --md-default-fg-color--lightest: #a89984; /* lightest text */
+
+  /* Code colors */
+  --md-code-fg-color: #ebdbb2;
+  --md-code-bg-color: #282828;
+  --md-code-hl-color: #3c3836;
+
+  /* Typography */
+  --md-typeset-a-color: #d79921;         /* link color - mustard/orange */
+}
+
+/* Dark mode (slate) adjustments */
+[data-md-color-scheme="slate"] {
+  --md-default-bg-color: #1d2021;
+  --md-default-fg-color: #ebdbb2;
+  --md-primary-fg-color: #98971a;
+  --md-accent-fg-color: #d79921;
+}
+
+/* Site title in header */
+.md-header__title,
+.md-header__title .md-ellipsis {
+  color: #fb4934 !important;  /* Bright red for site title */
+}
+
+/* Custom heading colors */
+.md-typeset h1,
+.md-content__inner > h1 {
+  color: #fb4934 !important;  /* Gruvbox red for H1 */
+}
+
+.md-typeset h2 {
+  color: #b8bb26 !important;  /* Gruvbox green for H2 */
+}
+
+.md-typeset h3 {
+  color: #fabd2f !important;  /* Gruvbox yellow/mustard for H3 */
+}
+
+.md-typeset h4 {
+  color: #b8bb26 !important;  /* Gruvbox green for H4 */
+}
+
+.md-typeset h5 {
+  color: #fabd2f !important;  /* Gruvbox yellow/mustard for H5 */
+}
+
+/* Links - force the color change */
+.md-typeset a,
+.md-nav__link,
+.md-footer__link,
+a {
+  color: #d79921 !important;  /* Mustard/orange for all links */
+}
+
+.md-typeset a:hover,
+.md-nav__link:hover,
+a:hover {
+  color: #fabd2f !important;  /* Lighter yellow on hover */
+}
