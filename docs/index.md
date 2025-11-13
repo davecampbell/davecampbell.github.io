@@ -14,7 +14,7 @@ Retired professional technologist staying active via...
 
 * Ph.D. student at UofL Speed School, [Robotics & AI Lab](https://engineering.louisville.edu/research/centersinstitutes/larri/){:target="_blank" rel="noopener"}
 * President of the [Waggener High School Alumni Association](https://waggeneralumni.org){:target="_blank" rel="noopener"}
-* selected technical consulting activities through [Best Technical](https://www.besttechnical.com){:target="_blank" rel="noopener"}
+* selected consulting activities through [NewThink.ai](https://newthink.ai){:target="_blank" rel="noopener"}
 
 I like messing with Wordpress and do some websites with it.  
 
