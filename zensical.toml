@@ -1,0 +1,70 @@
+[project]
+site_name = "Dave Campbell"
+site_author = "Dave Campbell"
+site_url = "https://davecampbell.github.io/"
+
+# Navigation structure
+nav = [
+    { "Home" = "index.md" },
+    { "About" = "about.md" },
+    { "Personal" = "personal/personal.md" },
+    { "Career" = "career.md" },
+    { "Interests" = [
+        { "Overall" = "interests.md" },
+        { "ML" = "ml.md" }
+    ]},
+    { "TIL" = [
+        { "Today I Learned..." = "til/index.md" },
+        { "Knives" = "til/posts/whetstone.md" }
+    ]}
+]
+
+[project.theme]
+favicon = "images/favicon2.ico"
+logo = "images/logo.png"
+
+# Useful features enabled
+features = [
+    "content.code.copy",
+    "content.footnote.tooltips",
+    "navigation.footer",
+    "navigation.instant",
+    "navigation.instant.prefetch",
+    "navigation.top",
+    "navigation.tracking",
+    "search.highlight",
+]
+
+# Social links
+[[project.extra.social]]
+icon = "fontawesome/brands/linkedin"
+link = "https://linkedin.com/in/daveccampbell"
+
+[[project.extra.social]]
+icon = "fontawesome/brands/github"
+link = "https://github.com/davecampbell"
+
+[[project.extra.social]]
+icon = "fontawesome/solid/envelope"
+link = "mailto:daveccampbell@gmail.com"
+
+# Google Analytics
+[project.extra.analytics]
+provider = "google"
+property = "G-QKFJ1SLQB9"
+
+# Markdown extensions
+[markdown_extensions]
+attr_list = true
+
+[markdown_extensions."pymdownx.emoji"]
+emoji_index = "material.extensions.emoji.twemoji"
+emoji_generator = "material.extensions.emoji.to_svg"
+
+# Blog plugin for TIL section
+[[plugins]]
+[plugins.blog]
+blog_dir = "til"
+post_date_format = "short"
+post_url_date_format = "yyyy/MM"
+post_url_format = "{categories}/{slug}"
