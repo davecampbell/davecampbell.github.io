@@ -11,4 +11,4 @@ icon: material/human-scooter
 ## Family
 - married to Sally.  She's a CPA and works [here](https://hsccpa.com).
 - 4 kids, all doing their things.
-- 5 grandkids, also doing stuff.  Lots of stuff.
+- 5 grandkids (#6 on the way!), also doing stuff.  Lots of stuff.
