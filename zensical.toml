@@ -3,7 +3,7 @@ site_name = "Dave Campbell"
 site_author = "Dave Campbell"
 site_url = "https://davecampbell.github.io/"
 site_description = "Personal website for Dave Campbell, Louisville, KY."
-copyright = "All content copyright Dave Campbell, 2025"
+copyright = "All content copyright Dave Campbell, 2026"
 
 # Custom CSS for Gruvbox color scheme
 extra_css = ["stylesheets/extra.css"]
@@ -14,6 +14,7 @@ nav = [
     { "About" = "about.md" },
     { "Personal" = "personal/personal.md" },
     { "Career" = "career.md" },
+    { "Etcetera" = "https://davetcetera.daveccampbell.com" },
     { "Interests" = [
         { "Overall" = "interests.md" },
         { "ML" = "ml.md" }

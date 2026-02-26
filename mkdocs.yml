@@ -27,6 +27,7 @@ nav:
     - About: about.md
     - Personal: personal/personal.md
     - Career: career.md
+    - Etcetera: https://davetcetera.daveccampbell.com
     - Interests:
       - Overall: interests.md
       - ML: ml.md
