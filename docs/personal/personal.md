@@ -9,6 +9,6 @@ icon: material/human-scooter
 - where I've [*lived*](lived.md)
 
 ## Family
-- married to Sally.  She's a CPA and works [here](https://hsccpa.com).
-- 4 kids, all doing their things.
-- 5 grandkids (#6 on the way!), also doing stuff.  Lots of stuff.
+- married to Sally.  She's a retired CPA.
+- 4 kids, all doing their things.  In Louisville, Shelbyville, and Denver.
+- 6 grandkids, also doing stuff.  Lots of stuff.
