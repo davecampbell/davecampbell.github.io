@@ -48,6 +48,7 @@ A working list, kept by hand. Most of these run on one small server I look after
 | [NewThink.ai](https://newthink.ai){:target="_blank" rel="noopener"} | AI consulting, teaching and implementations | Live |
 | [Reeder](https://reeder.daveccampbell.com){:target="_blank" rel="noopener"} | Reads public-domain books aloud in the browser, with highlighting; six books so far | Live |
 | [Droplet RL-Advisor](https://rl-advisor.nexus-tools.work){:target="_blank" rel="noopener"} | My Ph.D. research tool: recommends inkjet printer settings to hit a target droplet width | Research prototype |
+| [Circuit Buddy](https://huggingface.co/spaces/daveccampbell/ece-618-circuit-buddy){:target="_blank" rel="noopener"} | Electronics chatbot, built as the final project for the graduate course "AI Systems" | Live (Hugging Face Space) |
 | ReachCare | Care-journey navigator with a chatbot and local provider lookups | In development, not public yet |
 | [Connectence](https://connectence.com){:target="_blank" rel="noopener"} | "Connection Intelligence" landing page | Landing page |
 | [Davetcetera](https://davetcetera.daveccampbell.com){:target="_blank" rel="noopener"} | Odds and ends (the Etcetera page) | Live |
